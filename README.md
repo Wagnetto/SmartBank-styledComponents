@@ -1,4 +1,5 @@
 ## Study on React Styled Components
+![Screen Shot 2022-06-16 at 08 45 34](https://user-images.githubusercontent.com/79273930/174063171-0b57c8cf-49a4-47b0-82c0-12e2a71441db.png)
 
 Project made following the script on this [Course](https://cursos.alura.com.br/course/react-styled-components).
 
